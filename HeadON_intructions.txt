@@ -1,0 +1,6 @@
+Press D to move forward and S to go back
+
+game objective is to head on collide with the monster and take him to his corner to win. If the monster takes you to your corner than you loose.
+If you do not apply any force within 2 seconds of game start you loose.
+
+Press F to save L to load game.
